@@ -1,6 +1,9 @@
+DOMAIN-SUFFIX,api.jetbrains.ai
+DOMAIN-SUFFIX,auth.grazie.ai
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
+DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellij.org
@@ -13,4 +16,3 @@ DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,myjetbrains.com
-DOMAIN-SUFFIX,grazie.ai
