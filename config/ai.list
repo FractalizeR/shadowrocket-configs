@@ -16,6 +16,7 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 
 # Google
 DOMAIN-SUFFIX,ai.google.dev
