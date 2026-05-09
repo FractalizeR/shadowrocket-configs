@@ -25,3 +25,8 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,decart.ai
+
+#HuggingFace
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,xethub.hf.co
