@@ -1,0 +1,7 @@
+# NAME: Payment systems
+
+# Stripe
+DOMAIN-SUFFIX,stripe.com
+
+# Paddle
+DOMAIN-SUFFIX,paddle.com
