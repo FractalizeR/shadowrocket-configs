@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,decart.ai
 #HuggingFace
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai
