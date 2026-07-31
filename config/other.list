@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,datadoghq.eu
 DOMAIN-SUFFIX,ddog-gov.com
+DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,dtdg.co
 DOMAIN-SUFFIX,mail-tester.com
 DOMAIN-SUFFIX,mailtester.com
 DOMAIN-SUFFIX,iterm2.com
