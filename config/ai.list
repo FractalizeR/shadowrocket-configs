@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 
 # Anthropic / Claude
+DOMAIN,cdn.agentclientprotocol.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
