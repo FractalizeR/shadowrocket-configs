@@ -2,3 +2,7 @@
 
 DOMAIN-SUFFIX,ovh.com
 DOMAIN-SUFFIX,ovhcloud.com
+
+# NAME: Vercel
+
+DOMAIN-SUFFIX,vercel.app
